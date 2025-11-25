@@ -1,0 +1,146 @@
+Memory management is the process by which an operating system allocates, deallocates, and tracks the use of main memory for different processes to ensure efficient utilization and proper functioning. Key techniques include contiguous and non-contiguous methods like paging and segmentation, which divide memory into fixed or variable blocks to support multitasking, prevent fragmentation, and implement virtual memory.  
+Key functions of memory management
+
+    Allocation and deallocation:
+    Assigning memory to processes when they start and reclaiming it when they finish. 
+
+Tracking memory:
+Keeping a record of which memory is in use and which is free. 
+Fragmentation control:
+Minimizing issues like internal and external fragmentation, where memory is wasted. 
+Supporting multitasking:
+Allowing multiple processes to run simultaneously by managing memory for each one. 
+Virtual memory:
+Enabling the system to use disk storage as an extension of physical RAM by swapping pages in and out as needed. 
+Memory protection:
+Ensuring that one process cannot access or interfere with the memory of another process. 
+
+Memory management techniques
+
+    Contiguous memory allocation:
+    Assigns a single, continuous block of memory to a process. 
+
+    First Fit: Allocates the process to the first available hole (partition) large enough to hold it. 
+
+Best Fit: Chooses the hole that results in the smallest leftover space after allocation. 
+Worst Fit: Chooses the hole that leaves the largest leftover space. 
+
+Non-contiguous memory allocation:
+Divides a process into non-adjacent parts to be placed in memory. 
+
+    Paging: Divides memory into fixed-size blocks called pages. The operating system can load pages from disk into memory as needed, allowing for more efficient use of memory and reducing fragmentation. 
+
+Segmentation: Divides a program into variable-sized logical units called segments (e.g., code, data, stack). A segment table maps these segments to physical memory. 
+
+Swapping:
+Temporarily moves an entire process from main memory to secondary storage (disk) to free up memory for other processes. This allows for more processes to be run than could otherwise fit in physical memory. 
+
+Memory management is the process by which an operating system allocates, deallocates, and tracks the use of main memory for different processes to ensure efficient utilization and proper functioning. Key techniques include contiguous and non-contiguous methods like paging and segmentation, which divide memory into fixed or variable blocks to support multitasking, prevent fragmentation, and implement virtual memory.  
+Key functions of memory management
+
+    Allocation and deallocation:
+    Assigning memory to processes when they start and reclaiming it when they finish. 
+
+Tracking memory:
+Keeping a record of which memory is in use and which is free. 
+Fragmentation control:
+Minimizing issues like internal and external fragmentation, where memory is wasted. 
+Supporting multitasking:
+Allowing multiple processes to run simultaneously by managing memory for each one. 
+Virtual memory:
+Enabling the system to use disk storage as an extension of physical RAM by swapping pages in and out as needed. 
+Memory protection:
+Ensuring that one process cannot access or interfere with the memory of another process. 
+
+Memory management techniques
+
+    Contiguous memory allocation:
+    Assigns a single, continuous block of memory to a process. 
+
+    First Fit: Allocates the process to the first available hole (partition) large enough to hold it. 
+
+Best Fit: Chooses the hole that results in the smallest leftover space after allocation. 
+Worst Fit: Chooses the hole that leaves the largest leftover space. 
+
+Non-contiguous memory allocation:
+Divides a process into non-adjacent parts to be placed in memory. 
+
+    Paging: Divides memory into fixed-size blocks called pages. The operating system can load pages from disk into memory as needed, allowing for more efficient use of memory and reducing fragmentation. 
+
+Segmentation: Divides a program into variable-sized logical units called segments (e.g., code, data, stack). A segment table maps these segments to physical memory. 
+
+Swapping:
+Temporarily moves an entire process from main memory to secondary storage (disk) to free up memory for other processes. This allows for more processes to be run than could otherwise fit in physical memory. 
+Memory management is the process by which an operating system allocates, deallocates, and tracks the use of main memory for different processes to ensure efficient utilization and proper functioning. Key techniques include contiguous and non-contiguous methods like paging and segmentation, which divide memory into fixed or variable blocks to support multitasking, prevent fragmentation, and implement virtual memory.  
+Key functions of memory management
+
+    Allocation and deallocation:
+    Assigning memory to processes when they start and reclaiming it when they finish. 
+
+Tracking memory:
+Keeping a record of which memory is in use and which is free. 
+Fragmentation control:
+Minimizing issues like internal and external fragmentation, where memory is wasted. 
+Supporting multitasking:
+Allowing multiple processes to run simultaneously by managing memory for each one. 
+Virtual memory:
+Enabling the system to use disk storage as an extension of physical RAM by swapping pages in and out as needed. 
+Memory protection:
+Ensuring that one process cannot access or interfere with the memory of another process. 
+
+Memory management techniques
+
+    Contiguous memory allocation:
+    Assigns a single, continuous block of memory to a process. 
+
+    First Fit: Allocates the process to the first available hole (partition) large enough to hold it. 
+
+Best Fit: Chooses the hole that results in the smallest leftover space after allocation. 
+Worst Fit: Chooses the hole that leaves the largest leftover space. 
+
+Non-contiguous memory allocation:
+Divides a process into non-adjacent parts to be placed in memory. 
+
+    Paging: Divides memory into fixed-size blocks called pages. The operating system can load pages from disk into memory as needed, allowing for more efficient use of memory and reducing fragmentation. 
+
+Segmentation: Divides a program into variable-sized logical units called segments (e.g., code, data, stack). A segment table maps these segments to physical memory. 
+
+Swapping:
+Temporarily moves an entire process from main memory to secondary storage (disk) to free up memory for other processes. This allows for more processes to be run than could otherwise fit in physical memory. 
+
+Memory management is the process by which an operating system allocates, deallocates, and tracks the use of main memory for different processes to ensure efficient utilization and proper functioning. Key techniques include contiguous and non-contiguous methods like paging and segmentation, which divide memory into fixed or variable blocks to support multitasking, prevent fragmentation, and implement virtual memory.  
+Key functions of memory management
+
+    Allocation and deallocation:
+    Assigning memory to processes when they start and reclaiming it when they finish. 
+
+Tracking memory:
+Keeping a record of which memory is in use and which is free. 
+Fragmentation control:
+Minimizing issues like internal and external fragmentation, where memory is wasted. 
+Supporting multitasking:
+Allowing multiple processes to run simultaneously by managing memory for each one. 
+Virtual memory:
+Enabling the system to use disk storage as an extension of physical RAM by swapping pages in and out as needed. 
+Memory protection:
+Ensuring that one process cannot access or interfere with the memory of another process. 
+
+Memory management techniques
+
+    Contiguous memory allocation:
+    Assigns a single, continuous block of memory to a process. 
+
+    First Fit: Allocates the process to the first available hole (partition) large enough to hold it. 
+
+Best Fit: Chooses the hole that results in the smallest leftover space after allocation. 
+Worst Fit: Chooses the hole that leaves the largest leftover space. 
+
+Non-contiguous memory allocation:
+Divides a process into non-adjacent parts to be placed in memory. 
+
+    Paging: Divides memory into fixed-size blocks called pages. The operating system can load pages from disk into memory as needed, allowing for more efficient use of memory and reducing fragmentation. 
+
+Segmentation: Divides a program into variable-sized logical units called segments (e.g., code, data, stack). A segment table maps these segments to physical memory. 
+
+Swapping:
+Temporarily moves an entire process from main memory to secondary storage (disk) to free up memory for other processes. This allows for more processes to be run than could otherwise fit in physical memory. 
